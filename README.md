@@ -16,6 +16,8 @@ Add these in the command section that is found in the debug console
 right cick -> go to debug -> debug configuration -> add these commands
 ```
 monitor arm semihosting enable 
-
 ```
+## Step 3
+
+Use the printf() command to print the required data through semi Hosting.
 
