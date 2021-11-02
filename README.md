@@ -1,5 +1,5 @@
 # Semi-Hosting-in-STM32-CubeIDE
-
+Semihosting is a mechanism that enables code running on an ARM target to communicate and use the Input/Output facilities on a host computer that is running a debugger.
 ## Step 1
 We have to add two function that will be used as a printf statements
 ```
