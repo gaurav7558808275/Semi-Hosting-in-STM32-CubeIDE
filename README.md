@@ -14,4 +14,8 @@ extern void initialise_monitor_handles();
 Add these in the command section that is found in the debug console
 **Route**
 right cick -> go to debug -> debug configuration -> add these commands
+```
+monitor arm semihosting enable 
+
+```
 
